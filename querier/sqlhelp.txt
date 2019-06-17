@@ -1,0 +1,4 @@
+python sql.py -p 1433 reporting:@10.10.10.125 -windows-auth
+
+
+password:- PcwTWTHRwryjc$c6

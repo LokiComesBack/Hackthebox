@@ -1,0 +1,1 @@
+curl --header Content-Type: application/json --request POST --data '{password:Zk6heYCyv6ZE9Xcg, username:admin}' http://luke.htb:3000/login
